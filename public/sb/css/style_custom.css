@@ -1,0 +1,143 @@
+/**
+* Template Name: NiceAdmin
+* Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+* Updated: Apr 20 2024 with Bootstrap v5.3.3
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+/* classe para tabelas */
+.td_ce {
+  text-align: center;
+}
+
+.td_le {
+  text-align: left;
+}
+
+.td_ri {
+   text-align: right;
+}
+
+
+.color_sys{
+   color:#138362 !important;
+}
+
+.color_list{
+   color:white !important;
+}
+
+.pt{
+   cursor: pointer;
+}
+
+.bk_color_sys{
+   background-color:#138362 !important;
+}
+
+.label_color_sys{
+   background-color:#138362 !important;
+}
+
+.input_border_color_sys{
+   border: 1px  #138362 !important;
+}
+
+input[type="checkbox"] {
+   width: 20px;
+   height: 20px;
+}
+
+.pointer{
+   cursor:pointer !important;
+}
+
+.div_border {
+   border-radius:5px;
+   border:1px  gray;
+   padding:3px;
+}  
+
+.pointer {
+   cursor:pointer; 
+}
+
+.fundo-primary {
+   background-color: #4e73df !important
+}
+
+.fundo-success  {
+   background-color: #1cc88a !important
+}
+
+.fundo-info {
+   background-color: #36b9cc !important
+}
+
+.fundo-warning {
+   background-color: #f6c23e !important
+}
+
+.fundo-danger {
+   background-color:  #e74a3b !important
+}
+
+.fundo-secondary {
+   background-color:  #858796 !important
+}
+
+.fundo-light {
+   background-color:  #f8f9fc !important
+}
+
+.fundo-dark {
+   background-color:  #5a5c69 !important
+}
+
+.grid-roxo{
+   color:blueviolet !important;
+}
+
+.grid-red{
+   color:#e74a3b !important;
+}
+
+.grid-black{
+   color:#5a5c69 !important;
+}
+
+.grid-blue{
+   color:darkblue !important;
+}
+
+.semquebra {
+   white-space:nowrap !important; 
+}
+
+.roxo {
+   color: #C792EA;   
+}
+
+.amarelo {
+   color: #FFCB8B;
+}
+
+.branco{
+  color: #BFC7D5;
+}
+
+.verde{
+   color: #C3E88D; 
+}
+
+.azul{
+   color: #82AAFF; 
+}
+
+.verde_namespace{
+   color: #30BCB0
+}
